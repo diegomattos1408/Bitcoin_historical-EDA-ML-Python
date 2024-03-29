@@ -7,4 +7,3 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to predict 
 - Data Preparation: Cleaning and normalization of data for model training.
 - LSTM Modeling: Construction and training of an LSTM model for price prediction.
 - Model Evaluation: Performance metrics including MAE, MSE, RMSE, and R².
-- Overfitting Solutions: Implementation of techniques such as L2 regularization and Dropout to improve model generalization.
