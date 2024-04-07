@@ -1,6 +1,10 @@
 # Predictive Modeling of Bitcoin Prices with LSTM
 This project leverages Long Short-Term Memory (LSTM) neural networks to predict Bitcoin prices. By applying deep learning techniques, we aim to provide valuable insights for investors, financial analysts, and cryptocurrency enthusiasts.
 
+An initial dashboard before any analysis
+- Dashboard Bitcoin
+![Power BI Dashboard](bitcoin_dash.png)
+
 # Features
 
 - Exploratory Data Analysis (EDA): Visualization of trends, patterns, and outliers in the historical data of Bitcoin.
