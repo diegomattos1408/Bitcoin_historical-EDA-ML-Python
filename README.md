@@ -3,7 +3,7 @@ This project leverages Long Short-Term Memory (LSTM) neural networks to predict 
 
 An initial dashboard before any analysis
 - Dashboard Bitcoin
-![Power BI Dashboard]()
+![Power BI Dashboard](bitcoin_dash.png)
 
 # Features
 
